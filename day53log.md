@@ -1,8 +1,8 @@
 ---
 id: 3fawr58gspkyxy6dxz6p4gu
-title: Day52log
-desc: Programing Log  day 52
-updated: 1647444952489
+title: Day53log
+desc: Programing Log  day 53
+updated: 1647445602306
 created: 1647441761286
 ---
 
